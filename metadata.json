@@ -1,0 +1,6 @@
+{
+  "name": "Cup2Eat - Edible & Eco-Friendly Cups",
+  "description": "Drink your beverage and eat the cup! 100% edible, vegan, leak-proof biscuit cups for hot coffee, tea, and cold desserts. Official demo for @cup2eat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
